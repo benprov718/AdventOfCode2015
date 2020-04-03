@@ -22,4 +22,5 @@ b-file needs minor tweaks to read input from file (coming soon)
 
 ### Day4:
 
-a-file solves first part, reads secret from file.
+a-file solves both part, reads secret from file.\
+To solve second part, add a 0 to the comparison value. Takes a couple of minutes to run.
