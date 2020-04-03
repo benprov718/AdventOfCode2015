@@ -18,7 +18,8 @@ Code passes both tests
 ### Day3:
 
 a-file solves first part of the puzzle, reads input from file.\
-b-file needs minor tweaks to read input from file (coming soon)
+b-file solves second part, read input from file.\
+-1 file is the same as the other two, but using lists and more methods.
 
 ### Day4:
 
