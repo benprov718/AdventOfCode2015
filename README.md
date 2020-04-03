@@ -22,4 +22,4 @@ b-file needs minor tweaks to read input from file (coming soon)
 
 ### Day4:
 
-a-file solves first part, no read from file
+a-file solves first part, reads secret from file.

@@ -1,8 +1,8 @@
 import hashlib
 
 found=False
-
-real_secret="yzbqklnj"
+secret=open('taskfiles/task4.txt', 'r')
+real_secret=secret.read()
 test_secret1="abcdef"
 test_secret2="pqrstuv"
 test_num1=609040
