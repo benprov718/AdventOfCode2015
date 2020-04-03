@@ -15,3 +15,5 @@ Done, but reads from a string not a file.
  Reading from the file actually made it easier XD\
  Code passes both tests
  ###Day3:
+a-file solves first part of the puzzle, reads input from file.\
+b-file needs minor tweaks to read input from file (coming soon)
