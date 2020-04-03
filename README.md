@@ -19,3 +19,7 @@ Code passes both tests
 
 a-file solves first part of the puzzle, reads input from file.\
 b-file needs minor tweaks to read input from file (coming soon)
+
+### Day4:
+
+a-file solves first part, no read from file
