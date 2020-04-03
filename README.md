@@ -1,5 +1,3 @@
-# Advent of code 2015
-
 Just fiddling with things.
 
 Attempting the tasks in Advent of code 2015\
