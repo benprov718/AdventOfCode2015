@@ -15,6 +15,7 @@ Done, but reads from a string not a file.
 The processing works, and now reads from a file.\
 Reading from the file actually made it easier XD\
 Code passes both tests
+
 ### Day3:
 
 a-file solves first part of the puzzle, reads input from file.\
@@ -25,3 +26,8 @@ b-file solves second part, read input from file.\
 
 a-file solves both part, reads secret from file.\
 To solve second part, add a 0 to the comparison value. Takes a couple of minutes to run.
+
+### Day 5:
+
+a-file solves part one, reads file
+b-file is pseudocode
