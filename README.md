@@ -8,12 +8,13 @@ taskfiles/task{day}.txt
 ## Summary
 Legend:\
 :heavy_check_mark: = Both parts solved.\
-:white_check_mark: = First part solved.
+:white_check_mark: = First part solved.\
+:no_entry_sign: = Code doesn't work/solve the problem
 
 
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
+| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: | | | | |
 | Day 12 | Day 13 | Day 14 | Day 15 | Day 16 | Day17 | Day 18 | Day 19 | Day 20 | Day 21 | Day 22 | Day 23 | Day 24|
 | | | | | | | | | | | | | | 
 
@@ -48,3 +49,7 @@ b-file solves second part, woo :tada: :confetti_ball:
 
 a-file solves part one. Takes a minute to complete.\
 b-file solves part two. Takes a minute to complete.
+
+### Day 7
+
+a-file ... don't work XD 
