@@ -8,7 +8,7 @@ taskfiles/task{day}.txt
 
 ### Day1:
 
-Done, but reads from a string not a file.
+Done, now with file readage! :heavy_check_mark:
 
 ### Day2:
 
