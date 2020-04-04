@@ -13,7 +13,7 @@ Legend:\
 
 | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 | Day 11 | Day 12 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :white_check_mark: | | | | | |
+| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | | | | |
 | Day 12 | Day 13 | Day 14 | Day 15 | Day 16 | Day17 | Day 18 | Day 19 | Day 20 | Day 21 | Day 22 | Day 23 | Day 24|
 | | | | | | | | | | | | | | 
 
@@ -46,4 +46,5 @@ b-file solves second part, woo :tada: :confetti_ball:
 
 ### Day 6
 
-a-file solves part one. Takes a minute to complete
+a-file solves part one. Takes a minute to complete.\
+b-file solves part two. Takes a minute to complete.
