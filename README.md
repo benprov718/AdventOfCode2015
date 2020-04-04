@@ -29,5 +29,5 @@ To solve second part, add a 0 to the comparison value. Takes a couple of minutes
 
 ### Day 5:
 
-a-file solves part one, reads file
-b-file is pseudocode
+a-file solves part one, reads file\
+b-file solves second part, woo :tada: :confetti_ball:
